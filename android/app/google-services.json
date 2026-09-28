@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496926136509",
+    "project_id": "drac-app-54d3e",
+    "storage_bucket": "drac-app-54d3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496926136509:android:52c1070b0b0916418e3fd4",
+        "android_client_info": {
+          "package_name": "com.example.drac_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXUyog6cRCN_Gall6ftSVZ5toIylqLfRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "indexes": [],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "events",
+      "fieldPath": "before",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "events",
+      "fieldPath": "after",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pets",
+      "fieldPath": "medicationsById",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pets",
+      "fieldPath": "drac",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pets",
+      "fieldPath": "tratamentos",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pets",
+      "fieldPath": "medicamentos",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pets",
+      "fieldPath": "horarios_medicamentos",
+      "indexes": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "drac-firestore-tests",
+  "private": true,
+  "scripts": {
+    "test": "firebase emulators:exec --config ../firebase.json --only firestore --project demo-drac \"node --test test/spark.integration.js\"",
+    "test:spark": "firebase emulators:exec --config ../firebase.json --only firestore --project demo-drac \"node --test test/spark.integration.js\""
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^4.0.0",
+    "firebase": "^11.0.0",
+    "firebase-tools": "^15.31.0"
+  }
+}
